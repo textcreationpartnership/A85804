@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prudent and secure choice. Worthy of due consideration being a sure land-mark to all those who have been tossed to and fro in these wavering times. / Written by H.G. Gent.</title>
+            <author>G. H., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85804</idno>
+            <idno type="STC">Wing G24B</idno>
+            <idno type="STC">ESTC R177290</idno>
+            <idno type="EEBO-CITATION">43077497</idno>
+            <idno type="OCLC">ocm 43077497</idno>
+            <idno type="VID">151557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85804)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151557)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2264:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prudent and secure choice. Worthy of due consideration being a sure land-mark to all those who have been tossed to and fro in these wavering times. / Written by H.G. Gent.</title>
+                  <author>G. H., Gent.</author>
+               </titleStmt>
+               <extent>[6], 50, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, Anno Dom, 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Errata on [1] p. at end.</note>
+                  <note>Contains marginal notes in ms.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church. --  England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151557:1"/>
+            <p>A PRVDENT AND SECURE CHOYCE.</p>
+            <p>Worthy of due Conſideration being a ſure Land-mark to all thoſe who have been toſſed to and fro in theſe wavering Times.</p>
+            <p>
+               <hi>Written by</hi> H. G. <hi>Gent.</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>Apoc. 2. 5.</bibl>
+            </q>
+            <p>
+               <hi>Remember from whence thou art fallen and Repent, and doe thy firſt workes.</hi>
+            </p>
+            <p>Printed, ANNO DOM. 1650.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151557:2"/>
+            <pb facs="tcp:151557:2"/>
+            <head>TO THE READER.</head>
+            <p>IT is the garbe of this Age to guild the out-ſide with faire pretences. Yet (courteous Rea<g ref="char:EOLhyphen"/>der) take mee as J am, free from ſu<g ref="char:EOLhyphen"/>perficiall actions: I have a long time lived in this Sea of afflictions: and by theſe late Tempeſts have been dri<g ref="char:EOLhyphen"/>ven from my Harbour, to which I was wonted. I have found my Ship uncertaine; the Cable being feeble; and in all my ſearch, and that no ſhort one, I never found a more ſure Pilot, then this <hi>Prudent and Secure choyce.</hi> Take it, and throughly view it; and I doubt not but it will prove a ſafe ballaſt to thee, as I hope it will to mee; Containing all the Contro<g ref="char:EOLhyphen"/>verſies, moſt briefly and learnedly, be<g ref="char:EOLhyphen"/>tweene
+<pb facs="tcp:151557:3"/> the Church and the Apoſtate members. Make it thy owne, and I doubt not but thou wilt returne thankes to God. I had thought to have made a larger Preface; but that had beene, to have lighted a candle be<g ref="char:EOLhyphen"/>fore the Sunne, which obſcureth the Starres; wherefore pardon,</p>
+            <closer>
+               <signed>Thy moſt affectionate Friend, <hi>W. V.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151557:3"/>
+            <head>A PRUDENT AND Secure choyce of Beliefe. TO HIS DEARE PROTESTANT FRIEND.</head>
+            <opener>
+               <salute>Sr.</salute>
+            </opener>
+            <p>SInce it hath pleaſed God to put a period to the common profeſſed Religion of this Nation, and that by Authoritie of <hi>PARLIAMENT;</hi> me thinkes you ſtand at a gaze what to reſolve, eſpecially obſerving what a laughter it hath hatched, never fea<g ref="char:EOLhyphen"/>ther'd, vntill the deſtruction thereof. You know that nothing can be of greater importance then: he profeſsion of a true Religion, though little apprehended by ſuch as riſe no higher then ſenſe can levell, eſpecially in thoſe ſcandalous confuſions, where Truth may ſeeme more
+<pb facs="tcp:151557:4"/> excuſably declined what hath beene my cleare and peaceable reſolution, in the diſtempers give mee leave in loue and friendſhip, to communicate, by theſe few Papers, to your ſelfe whoſe Happineſſe I tender as my owne: aſſured, that if you peruſe them with diligence and ſincere love of Truth in this more then ever, you ſhall experience me,</p>
+            <closer>
+               <signed>Your true Friend and Servant, <hi>H. G.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151557:4"/>
+            <head>A PRVDENT AND SECVRE CHOICE.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. 1. <hi>The Queſtion ſtated upon Suppoſitions pru<g ref="char:EOLhyphen"/>dently not queſtionable.</hi>
+               </head>
+               <p n="1">1. <seg rend="decorInit">J</seg> Suppoſe firſt, That our bleſſed Saviour, being to depart in viſible preſence from this World, his laſt care was to leave his Church provided of ſuch as ſhould ſufficiently Teach, Governe, and advance it. To whom and their Succeſ<g ref="char:EOLhyphen"/>ſors for that purpoſe, hee promiſed his eſpe<g ref="char:EOLhyphen"/>ciall aſſiſtance and protection to the end of the world. <hi>As my Father ſent mee ſo J ſend you,</hi> Joh. 20. verſ. 21. <hi>Going into the whole</hi>
+                  <pb n="2" facs="tcp:151557:5"/> 
+                  <hi>world Preach the Goſpell,</hi> Mark. 16. Here wee ſee the Apoſtles commiſſion not onely to goe as being ſent, but alſo to ſend others their ſucceſſors with the like Authority to be ſucceſſively delivered, ſince the Apoſtles, in their owne perſons could not goe into the <hi>whole World.</hi> Eſpecially, if by the whole world, wee underſtand both place, and time to the end thereof. That alſo be left ample power for the perfect Government of the ſame Church, that of Saint <hi>Math.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. deſerveth eſpeciall conſideration: <hi>All power is given to mee in heaven and in earth, going therefore teach all Nations.</hi> Where having ſaid all Power is given to mee, Hee preſently prac<g ref="char:EOLhyphen"/>tiſeth and giveth the like, ſaying, Going there<g ref="char:EOLhyphen"/>fore, &amp;c. Moreover, that wee may know no<g ref="char:EOLhyphen"/>thing is wanting to the perpetuall government of his Church, and that juſtly it may be aſſured to be directed, not ſo much by humane induſtry, as by the Spirit of God, he promiſed, <hi>Joh.</hi> 14. And J will pray my Father and hee will give you another Comforter, that hee may abide with you for ever, the Spirit of Truth.</p>
+               <p n="2">2. It cannot be denyed, but theſe places ta<g ref="char:EOLhyphen"/>ken together enforce an eminent, perpetuall,
+<pb n="3" facs="tcp:151557:5" rendition="simple:additions"/> and infallible authority of Chriſts Church: for they are to be underſtood as they lye or not, if they are, then there is a Church con<g ref="char:EOLhyphen"/>ſtantly governing in a Spirit of Truth, even to the end of the World; if not, what Text is there, that may not maliciouſly be wreſted to a ſtrange ſenſe, by Tongues ſounding no<g ref="char:EOLhyphen"/>thing more ſacredly, then Scripture; wit<g ref="char:EOLhyphen"/>neſſe the times experience.</p>
+               <p>Thus all Sectaries, though contrary a<g ref="char:EOLhyphen"/>mongſt them themſelves, avouch for their undoubted warrant holy Scripture; when it is evident their Proofes are not out of Scrip<g ref="char:EOLhyphen"/>ture, but out of their private Judgements. It muſt then be confeſſed hard to convince any thing by Scripture alone; Not for that it containeth not all neceſſary Truth, and inſtruction to Salvation, but becauſe follow<g ref="char:EOLhyphen"/>ing private judgements, wee may erre in the ſenſe thereof.</p>
+               <p n="3">3. J ſuppoſe there is a Viſible Church, that beareth the true markes of Chriſt's promiſed Providence converting Nations, knowne throughout all the World, re<g ref="char:EOLhyphen"/>nowned for continuall Succeſſion, knit in Unity, adorned with unanimous conſent of Doctors in all Nations, maintained by Coun<g ref="char:EOLhyphen"/>cels,
+<pb n="4" facs="tcp:151557:6"/> hated by all, though diſagreeing Sec<g ref="char:EOLhyphen"/>taries, beautified with mukitudes of Holy men, enriched with glorious Martyrs; fi<g ref="char:EOLhyphen"/>nally Profeſſing and teaching all Chriſtian piety; that juſtly it may be ſaid, <hi>Here is the ſinger of GOD;</hi> this the light here, God ſpeaketh to the world, in one and the ſame voyce, by Chriſt, and his Apoſtle, and ſuc<g ref="char:EOLhyphen"/>ceeding Church, not diſ-joynted by dam<g ref="char:EOLhyphen"/>nable Doctrines: for what Age of men could ſo conſpire with uniforme Contradi<g ref="char:EOLhyphen"/>ction to their venerable Predeceſſours, and to their owne ruine, imbrace Errours hard to nature? Or, how could a few be ſo pre<g ref="char:EOLhyphen"/>valent, as by degrees to ſeduce the whole World, and that without note! Sooner may the cenſurers be ſuſpected of miſtake, and the Church judged better able to juſtifye their queſtioned Doctrines, then theſe not diſproved, to overthrow it.</p>
+               <p n="4">4. Fourthly, J ſuppoſe, what Truth it ſelfe denounceth Mark. 16. <hi>Hee that will not be<g ref="char:EOLhyphen"/>lieve ſhall be damned.</hi> This ſentence doubt<g ref="char:EOLhyphen"/>leſſe extends to all diſ-beliefe of the Goſpell ſufficiently propoſed, for before he ſaid, <hi>going into the World preach the Goſpell.</hi> Which is not onely his Reſurrection (though it was pro<g ref="char:EOLhyphen"/>nounced
+<pb n="5" facs="tcp:151557:6" rendition="simple:additions"/> by occaſion of doubt made, thereof) but many thinges which hee had to ſay to them, which then they could not beare away. However no Chriſtian will deny, but the diſ<g ref="char:EOLhyphen"/>beleif of Gods word is damnable, and this is ſufficient for my preſent purpoſe. Hence it followeth, that amongſt different Opinions concerning the ſame Scripture, that part is leſſe ſecure that denyeth, ſince for Diſ-belief, dam<g ref="char:EOLhyphen"/>nation is denounced, not for belief.</p>
+               <p n="5">5. Fifthly, J Suppoſe, as conſequent to what is ſaid, That if any Article commonly believed, be judged hard by any private man (and what prime article of Beliefe is not hard?) It is not ſecure for him to condemne it, relying only upon humane reaſon, though joyned with private interpretation of Scripture (for hee may with the ſame breath deny all Myſteryes) and the moſt hee can bring is but a ſhew of Probability not different from <hi>Arians</hi> and other confeſſed Heritickes: con<g ref="char:EOLhyphen"/>ſequently inſufficient to diſprove the contrary profeſſed Belief, though it be ſuppoſed but probably proved out of holy Scripture. But he muſt produce cleare Scripture; without ad<g ref="char:EOLhyphen"/>dition, diminution, ſuppoſition, or inter<g ref="char:EOLhyphen"/>pretation; ſince theſe are ſubject to doubt,
+<pb n="6" facs="tcp:151557:7" rendition="simple:additions"/> and conſequently in danger of leading into diſ-beliefe.</p>
+               <p n="6">6. Sixthly, for my purpoſe, J require of Diſ<g ref="char:EOLhyphen"/>believers onely, an acknowledgment of a morall <note n="*" place="margin">Here (Reader) miſtake not the Author, for whereas in many places he uſeth the terme, Pro<g ref="char:EOLhyphen"/>bable, hee taketh them not for meere Probabilities, but for in<g ref="char:EOLhyphen"/>fallible Truths. But giving thee the longer end of the ſtaffe, hee deſireth no more of thee.</note> 
+                  <hi>Pro<g ref="char:EOLhyphen"/>bability,</hi> in the proofe, Belei<g ref="char:EOLhyphen"/>vers bring out of holy Scrip<g ref="char:EOLhyphen"/>ture; and this cannot be de<g ref="char:EOLhyphen"/>nied to an an<g ref="char:EOLhyphen"/>tient Church, conſiſting of Councels, and Learned men in all parts of the Chriſtian World, agreeing in one, without any altera<g ref="char:EOLhyphen"/>tion evidently proved.</p>
+               <p n="7">7. Finally, obſerve that the Chriſtian world is for the moſt part divided into Believers and disbelievers: believers rely on Gods eternall Truth, declared by his Church, the moſt im<g ref="char:EOLhyphen"/>partiall interpreter of his Word, not looking ſo much upon the hardneſſe of the thing pro<g ref="char:EOLhyphen"/>poſed, as the propoſall; which if it fayle in one, all may be doubted, if it be ſufficient to warrant one; it alſo warranteth all, being equally the ſame to all Disbelievers are of
+<pb n="7" facs="tcp:151557:7" rendition="simple:additions"/> divers ſorts, pretending Scripture, but accor<g ref="char:EOLhyphen"/>ding to their private Opinions; hence it is that they agree in little more then oppoſing Be<g ref="char:EOLhyphen"/>lievers.</p>
+               <p n="8">8. Theſe Grounds ſuppoſed prudently not queſtionable: the queſtion is among all Re<g ref="char:EOLhyphen"/>ligious, which is ſecurely to be choſen? J anſwer The Auntient believing: becauſe it muſt be ſuppoſed at leaſt to have Probable proofes out of Scripture and to containe no hurt, in which caſe the Beliefe is juſtified. Diſ<g ref="char:EOLhyphen"/>believers though their grounds be as probable as thoſe of the <hi>Arians,</hi> yet they are in danger, becauſe they diſ-believe; according to this rule all particular Points controverted are eaſily and cleerly proved:</p>
+               <p>
+                  <hi>For Example.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. 2.</head>
+               <p n="9">9. <hi>The reall preſence of Chriſts body and blood in the Sacrament of our Lords Sup<g ref="char:EOLhyphen"/>per is ſecurely believed, with danger denyed.</hi>
+               </p>
+               <p>TO juſtifie this Belief, wee have firſt the words of Chriſt promiſing <hi>John.</hi> 6. <hi>My fleſh is truly meate, and my blood is truly</hi>
+                  <pb n="8" facs="tcp:151557:8" rendition="simple:additions"/> 
+                  <hi>drinke, he that eateth my fleſh, &amp;c.</hi> He that, contrarie to the Auntient Church, will not believe this of the reall fleſh of Chriſt in the Sacrament, induced by theſe obſcure words, The Spirit giveth life, the fleſh profiteth no<g ref="char:EOLhyphen"/>thing; expoſeth himſelfe to danger of Diſ<g ref="char:EOLhyphen"/>beliefe with the <hi>Jewes,</hi> and blaſphemie; ſince verſ. 56. It is ſayd, <hi>he that eateth my fleſh, and drinketh my blood, dwelleth in mee and J in him.</hi> And St. <hi>Paul. Coloſ.</hi> 1. <hi>You which were in times paſt ſtrangers and enemies, &amp;c. hath hee now reconciled in the body of his fleſh, through death, to make you holy:</hi> How then can theſe words, The fleſh profiteth nothing without danger be underſtood of the fleſh of Chriſt? Is it not profit to us, that Chriſt dwelleth in us, and wee in him? That wee are reconciled in the body of his fleſh?</p>
+               <p n="10">10. Secondly, wee have the words of Chriſt performing: <hi>This is my body, take, eate, doe this, &amp;c.</hi> Which words, if wee wreſt from the plaine received, to a figurative ſenſe, wee muſt bring cleere Scripture for it, elſe our interpretation is dangerous, denying ſo cleare, and high a myſtery of Faith, upon humane Motives onely.</p>
+               <p>Thirdly, wee have the teſtimony of St.
+<pb n="9" facs="tcp:151557:8" rendition="simple:additions"/> 
+                  <hi>Paul.</hi> 1 <hi>Cor.</hi> 11. If theſe places be obſcure; wee have beſides the conſent of Nations, for a Thouſand five hundred yeares, without notorious contradiction.</p>
+               <p>Finally, in Beliefe and Practice there is no impiety, but praiſe and honour to Chriſt, who upon prudent grounds is ſuppoſed pre<g ref="char:EOLhyphen"/>ſent, under the formes of Bread and Wine, after the words of Conſecration pronounced in the perſon of Chriſt: he is received with Reverence, love, thankfulneſſe, and lively re<g ref="char:EOLhyphen"/>membrance of his Sacred paſſion, &amp;c. For denyall of this Beleife, wee have but ſmall Authority, not one cleare teſtimony of Scripture.</p>
+               <p n="11">11. Only it may be objected, That if Chriſt be not under thoſe formes of Bread and Wine, there is danger of Jdolatry.</p>
+               <p>The contrary is manifeſt; for Idolatry giveth divine worſhip to a Creature, choo<g ref="char:EOLhyphen"/>ſing ſuch a creature or thing for God; but Beleivers adore, not Bread, nor Wine, nor any Creature but Chriſt, God and Man, whom upon invincible Grounds they ſuppoſe pre<g ref="char:EOLhyphen"/>ſent Sacramentally, who in caſe he were not there, yet Chriſtians adore him, and not the Bread.</p>
+               <pb n="10" facs="tcp:151557:9" rendition="simple:additions"/>
+               <p> Know therefore, that Adoration conſiſteth of outward reverence, conjoyned with in<g ref="char:EOLhyphen"/>teriour as of Body and Soule.</p>
+               <p>The outward is indifferent to God and Creatures, the interiour joyned with it, makes the difference; Exteriour reverence applied by our intention to a temporall Lord, is but a Civill worſhip; the ſame applied by our in<g ref="char:EOLhyphen"/>tention to a Saint, as a Creature highly in Gods favour, is a higher degree of honour, then the former; yet within the limits of Wor<g ref="char:EOLhyphen"/>ſhip, inferiour to the worſhip of God.</p>
+               <p>It is likewiſe applied by our Intention, to God our Creator and Saviour; thus it is per<g ref="char:EOLhyphen"/>fect Adoration, due only to God: whence our adorations are diſtinguiſhed only by our knowledge and eſteeme of the object adored.</p>
+               <p>Hee then that beleiveth that Chriſt is con<g ref="char:EOLhyphen"/>teined Sacramentally under the formes of Bread and Wine, may ſecurely adore, ſince his adoration, proceeding from his Belief, by it transferreth the outward act from all Crea<g ref="char:EOLhyphen"/>tures, and directeth it to God, even in caſe in his immediate beleif, hee ſhould poſſibly be ſuppoſed miſtaken. There remaineth no danger then in the Beleif, but much in the denyall, <hi>Hee that will not believe, &amp;c.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="11" facs="tcp:151557:9" rendition="simple:additions"/>
+               <head>CHAP. 3.</head>
+               <p n="12">12. <hi>The Sacrifice of Maſſe is ſecurely be<g ref="char:EOLhyphen"/>lieved, dangerouſly denied.</hi>
+               </p>
+               <p>MAſſe is a compleate performance of that Command: <hi>Do this in remembrance of mee, Luk.</hi> 22. Wherein by the Preiſt, pray<g ref="char:EOLhyphen"/>ers are ſaid for the Church, the holy Scrip<g ref="char:EOLhyphen"/>ture is read: all the parts and Ceremonies thereof repreſent the life and paſſion of Chriſt; who by meanes of thoſe words, pronounced in his Name, <hi>Hoc eſt corpus meum,</hi> is duly offered in Sacrifice, to the honour of God and profit of his Church. Whence Faith, Grati<g ref="char:EOLhyphen"/>tude, and love to our Redeemer is daily re<g ref="char:EOLhyphen"/>newed, and the knowne Prophecy of <hi>Malac.</hi> chap. 1. fulfilled; From the riſing of the Sunne, to the going downe of the ſame, my Name is great among the Gentiles, and in every place a pure oblation is Sacrifized and offered to my Name, according to auncient and common tranſlation. Thus the Church alwayes from the Apoſtles taught and prac<g ref="char:EOLhyphen"/>ticed. Securely J follow it; It is dangerous to deny it.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="12" facs="tcp:151557:10" rendition="simple:additions"/>
+               <head>CHAP. 4.</head>
+               <p n="13">13. <hi>Sacramentall confeſſion and Abſolu<g ref="char:EOLhyphen"/>tion are ſecurely practiſed.</hi>
+               </p>
+               <p>HEre a Chriſtian, after due examination of his Conſcience, with heartly ſorrow for his ſinnes<g ref="char:punc">▪</g> and purpoſe to amend (which acts are neceſſarily required) confeſſeth his ſins, and expecteth Abſolution by the Mini<g ref="char:EOLhyphen"/>ſtry of an approved Prieſt, what danger can there be in this? The <hi>Jewes</hi> charged Chriſt of blaſphemy, Saying; <hi>who can forgive ſinnes but God?</hi> Againſt Chriſt they ſinned, firſt denying him to be God, which ſinne hee chaſtized by miracle. <hi>Math.</hi> 9.</p>
+               <p>Secondly<g ref="char:punc">▪</g> not beleeving a Power given to man to forgive ſinnes: this alſo he bla<g ref="char:EOLhyphen"/>med; And that you may know, that the Sonne of man hath Authority in earth to for<g ref="char:EOLhyphen"/>give ſinnes, &amp;c. And the multitude glorified God who had given ſuch Authority to men; to his Apoſtles, <hi>John.</hi> 22. Hee ſaith, Receive yee the holy Ghoſt, whoſe ſinnes yee remit, they are remitted to them, whoſe ſinnes yee retaine they are retained, <hi>Math.</hi> 18. What<g ref="char:EOLhyphen"/>ſoever yee ſhall bind on earth ſhall be bound in heaven, and whatſoever yee ſhall looſe on earth, ſhall be looſed in heaven.</p>
+               <pb n="13" facs="tcp:151557:10" rendition="simple:additions"/>
+               <p> Queſtionleſſe, the prime ſenſe of theſe words imports a power given to men to for<g ref="char:EOLhyphen"/>give ſinnes: nothing then is preſumptuouſly believed but received as a mercifull priviledge, left by Chriſt to his dearly redeemed Church.</p>
+               <p>In oppoſition, J find no Scripture; but only admirations of a few denyers in com<g ref="char:EOLhyphen"/>pariſon of the Believers, though they deny not, but temporall Princes may give Com<g ref="char:EOLhyphen"/>miſſion to ſubjects, to forgive Treaſons againſt themſelves dangerous then is their deniall.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. 5. <hi>Securely wee beleive one Church, vnder one Head thereof.</hi>
+               </head>
+               <p n="14">14. NEceſſarie it is, in one Family one Maſter, in one Citty one Major, in one Company one Captaine, in one Army one Generall, in one Common-wealth one State, in one Kingdome one King. And can it beare any colour of offence, to believe that in the moſt perfect Common-wealth, inſtituted by Chriſt, there ſhould be one flock under one Paſtor? <hi>vt fiat unum ovile et unus Paſtor.</hi> Where there are two, not ſubordinate Governements, there is not one Common<g ref="char:EOLhyphen"/>wealth,
+<pb n="14" facs="tcp:151557:11"/> and two peaceable governing Kings, argue two Kingdomes, where then in Chriſ<g ref="char:EOLhyphen"/>tians wee find divers Spirituall governments, not ſubordinate; wee muſt acknowledge divers Churches, yet wee all ſay in one <hi>Creed,</hi> delivered by the Apoſtles, conforma<g ref="char:EOLhyphen"/>ble to what Chriſt promiſed, <hi>J believe the holy Catholique Church.</hi> Not one if not ſubordinate to one viſible head, who as hee ordained a viſible Church, ſo he ordained a viſible Paſtor. That there may be made one flocke and one Paſtor. Neceſſary for the preſeruation of Unity, and decent Confor<g ref="char:EOLhyphen"/>mity, without which no Common-wealth is permaent.</p>
+               <p n="15">15. I find this no where verified but in the ſucceſſors of <hi>Peter,</hi> and the Church adhering to them, cleerely promiſed, <hi>Math.</hi> 16. verſ. 8. <hi>Thou art Peter, and vpon this rocke will J build my Church, and the Gates of Hell ſhall not prevaile againſt it.</hi>
+               </p>
+               <p>Behold one rocke, one Church, and that permanent, againſt all aſſaults: now knowne by its ſingular Conſtancy, in the middeſt of continuall aſſaults, <hi>Iohn.</hi> 21. To <hi>Peter</hi> Chriſt ſaid, <hi>Feed my ſheepe;</hi> which words imply the office of a Paſtor; that is, not onely
+<pb n="15" facs="tcp:151557:11" rendition="simple:additions"/> to provide nouriſhment, but alſo to Governe and defend, without which it were not com<g ref="char:EOLhyphen"/>pleat.</p>
+               <p>That alſo theſe words were ſpoken to <hi>Peter</hi> only, and conſequently only to his ſuc<g ref="char:EOLhyphen"/>ceſſors; It is manifeſt by that three-fold In<g ref="char:EOLhyphen"/>terrogation, <hi>Simon Peter</hi> loueſt thou mee? Eſpecially when hee added, More then theſe. Whereby he excluded the reſt of his Apoſtles. To which when Saint <hi>Peter</hi> had anſwered, that he loued him. Chriſt replyed to him ſiingularly; <hi>Feed my ſheepe.</hi> That is, the ſu<g ref="char:EOLhyphen"/>preame dignity of Paſtorſhip and Vicegeren<g ref="char:EOLhyphen"/>cy <hi>J give you,</hi> requireth a ſingular love, and as you love mee, ſo be a true Paſtor in my Church.</p>
+               <p>Grant that by probable arguments all ſaid may appeare not evident, I will not diſpute it; yet the common voyce of the World ſo long continued, expreſſed alſo in the <hi>Creeds,</hi> may juſtifie the Believers of one, holy Catho<g ref="char:EOLhyphen"/>lique, and Apoſtolique Church: and not one, unleſſe in one belief under one ſupreame viſible Governour; whom ſuch as reject out of a perſwaſion, that they need none, but Chriſt; make many Churches diſagreeing in confuſed Beliefes, every one equally chal<g ref="char:EOLhyphen"/>lenging CHRIST for their Governour;
+<pb n="16" facs="tcp:151557:12" rendition="simple:additions"/> ſecurely then one Church under one viſible Paſtor is believed, but with danger denied: Hee that will not beleive the Catholique Church, he that heareth you heareth mee, he that diſpiſeth you diſpiſeth mee &amp;c.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. 6.</head>
+               <p n="16">16. <hi>Securely wee commend our ſelves to the interceſſion of Saints.</hi>
+               </p>
+               <p>TO juſtifie this, it is ſufficient if wee prove it conformable to reaſon, and no injurie to Chriſt. Saint <hi>Paul</hi> commended himſelfe to the prayers of Chriſtians; what muſt be anſwered in his excuſe will ſecure us, ſince wee goe to Saints, as Interceſſors, not as Givers, and ſo truly goe to Chriſt. You ſay Saints cannot heare us. How know you this? Not by Scripture. It witneſſeth that many Prophets ſaw objects, not only abſent, but not exiſtent untill many hundred yeares after their time, only by Divine inſpiration, and ſhall wee now deny this to Saints in<g ref="char:EOLhyphen"/>joying God face to face? Nor by reaſon: for if their hearing were by corporall eares, there might be ſome difficultie; yet ſince their hearing is underſtanding, which is indifferent to conceive objects, as well abſent as pre<g ref="char:EOLhyphen"/>ſent,
+<pb n="17" facs="tcp:151557:12" rendition="simple:additions"/> this difficultie is vaine, ſince wee know not how our ſoule underſtands, nor how our eyes ſee, or eares heare; What hindereth then, but that ſecurely I may believe it.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. 7.</head>
+               <p n="17">17. <hi>What is Secure concerning the ma<g ref="char:EOLhyphen"/>king and worſhipping of Images.</hi>
+               </p>
+               <p>FOr a ſafe reſolution in this Point, it is neceſſary.</p>
+               <p>Firſt, to declare, what manner of Worſhip is pretended due to Images; and for Ex<g ref="char:EOLhyphen"/>ample, J will diſcourſe of the Image of CHRIST Crucified, whereby it will ap<g ref="char:EOLhyphen"/>peare, what with proportion may be ſaid of the reſt. The Worſhip then pretended lawfull, tendeth not to the Image, out of apprehenſion of Divinity therein contained, but onely out of a Faith in CHRIST; re<g ref="char:EOLhyphen"/>preſented and imagined to us by that Image, that is, believing CHRIST repreſented by it in manner as the once Viſibly appeared, worthy of all honour, which by his I<g ref="char:EOLhyphen"/>mage, as his repreſentative, I give him; Whence evident it is. Firſt, that by ſuch worſhip CHRIST is immediately worſhip<g ref="char:EOLhyphen"/>ped;
+<pb n="18" facs="tcp:151557:13"/> that is, for Himſelfe, and his Picture onely for him, both morally one object of the worſhip.</p>
+               <p>Secondly, that no honour due to GOD is transferred to a Creature, ſince God is onely truly Worſhipped for himſelfe, and no Creature religiouſly worſhipped, but for GOD.</p>
+               <p>Thirdly, that whatſoever honour exteri<g ref="char:EOLhyphen"/>our or interiour, tendeth toward the I<g ref="char:EOLhyphen"/>mage, is not for it, nor reſteth there (as in caſe of Jdolatry) but by our Faith, and in<g ref="char:EOLhyphen"/>teriour reverence is transferred to CHRIST, for whom and to whom it is exhibited.</p>
+               <p>Since therefore perfect Worſhip conſiſteth both in interiour, and exteriour acts conjoy<g ref="char:EOLhyphen"/>ned; the interiour giving life, and the very being of worſhip to the exteriour, the inte<g ref="char:EOLhyphen"/>riour reſpecting Chriſt for himſelfe, and the Jmage, onely for CHRIST; Jmage-worſhip differeth infinitely from Jdolatry. In a word, the worſhip here in queſtion, is on<g ref="char:EOLhyphen"/>ly an outward honour toward the Jmage, proceeding from an outward reverence to CHRIST repreſented. As St. <hi>Mary Mag<g ref="char:EOLhyphen"/>dalen</hi> worſhipped Chriſt as Man, out of a beliefe of the Divinity in him, or rather as ſome worſhip their Communion for the re<g ref="char:EOLhyphen"/>lation
+<pb n="19" facs="tcp:151557:13" rendition="simple:additions"/> it hath to CHRIST, by their Belief: So in like manner, worſhip given to Jmages, is for the connexion they have with Chriſt himſelfe.</p>
+               <p>The Queſtion then is, whether the worſhip of Jmages thus underſtood, bee law<g ref="char:EOLhyphen"/>full?</p>
+               <p n="18">18. ACcording to the new Tranſlation of our <hi>Engliſh</hi> Bibles, the negative part againſt the Believers ſeemeth juſtified, <hi>Exod.</hi> 20. Expreſly forbidding both making and worſhipping any Jmage whatſoever.</p>
+               <p>But this Tranſlation is evidently falſe, unleſſe it meane Jmages with relation to Jdolatry; For in the Law, what is forbidden to be worſhipped, is alſo forbidden to bee made. <hi>Thou ſhalt not make to thy ſelfe, nor Worſhip:</hi> But the Law forbiddeth nor Jma<g ref="char:EOLhyphen"/>ges to be made, as it appeareth by the Jma<g ref="char:EOLhyphen"/>ges in the Temple, and Cherubims over the Arke, the brazen Serpent, <hi>Numb.</hi> 21. <hi>Kings lib.</hi> 1. <hi>Chap.</hi> 6. <hi>verſ.</hi> 23, 27, 29. (according to the Engliſh tranſlation) Lyons, Oxen, &amp;c. 1 <hi>Kings,</hi> chap. 7. verſ. 29. Then likewiſe, it forbiddeth not Jmage-worſhip. <hi>Jmage</hi> then is a falſe Tranſlation, unleſſe it be under<g ref="char:EOLhyphen"/>ſtood
+<pb n="20" facs="tcp:151557:14" rendition="simple:additions"/> with relation to Idolatry, then it maketh nothing againſt the uſe of Jmages declared.</p>
+               <p>Moreover, wee have manifeſt warrant in holy Scripture, both for the making and worſhipping of Jmages, not reconcileable with the Law, if underſtood as the new Tranſlations import.</p>
+               <p>The Prophet <hi>David</hi> teacheth, <hi>Adore the foot-ſtoole of our Lord, for hee is holy.</hi> Was not the Arke a creature? Yet becauſe God is holy, whoſe foot-ſtoole it was, it was jud<g ref="char:EOLhyphen"/>ged worthy to be worſhipped.</p>
+               <p>
+                  <hi>Joſhua</hi> chap. 7. Fell proſtrate before the Arke: what did hee leſſe then is required in the worſhip of Images? Or did he breake Gods Command?</p>
+               <p>Wee read, <hi>Exod.</hi> 3. 28. <hi>Geneſ.</hi> 18. <hi>Joſ.</hi> 5. 14. <hi>Apoc.</hi> 5. and in other places, How the holy Prophets adored GOD in Images, or in Angels repreſenting his Perſon, proſtrating themſelves before them, and though their intention was directed to God; yet their outward act of worſhip was directed to thoſe ſenſible apparitions, or Jmages repreſenting God to their Imaginations; wherein they conceived God as repreſented, and thoſe J<g ref="char:EOLhyphen"/>mages repreſenting God morally one object,
+<pb n="21" facs="tcp:151557:14"/> in the ſame manner; as it happeneth in the honour of Jmages, and in the worſhip of the figurative Communion.</p>
+               <p n="19">19. Finally, it is manifeſt, by the end of the Law; that Idolatry, not Jmage-worſhip is forbidden; which was, that the honour of GOD ſhould bee unviolably kept, by gi<g ref="char:EOLhyphen"/>ving Divine worſhip onely to him: There<g ref="char:EOLhyphen"/>fore in the beginning hee ſaid, <hi>J am thy Lord God, thou ſhalt have no other Gods before me.</hi> The reaſon alſo hee added, why they ſhould make no Idols; <hi>For J am thy Lord God, a jealous God;</hi> That is, make to thy ſelfe no<g ref="char:EOLhyphen"/>thing for thy GOD; for J am thy God.</p>
+               <p>Jmages, J have proved were Comman<g ref="char:EOLhyphen"/>ded; therefore Jmages as declared, oppoſe not Gods honour, conſequently are not for<g ref="char:EOLhyphen"/>bidden, elſe wee muſt prove a manifeſt con<g ref="char:EOLhyphen"/>tradiction in the Law. Thus the received uſe of Jmages is juſtified, and not to bee cryed downe by new Diſ-believers, whoſe dan<g ref="char:EOLhyphen"/>ger is apparent, untill they bring evident proofes.</p>
+               <p>It may be objected, that ſince Jdolatry hath beene begun, and maintained by Jma<g ref="char:EOLhyphen"/>ges; and ſince men are prone to apply
+<pb n="22" facs="tcp:151557:15"/> themſelves moſt to Corporall objects, the ſecure way is to abandon Jmages, at the leaſt in Churches.</p>
+               <p>This is ſpoken without Law or reaſon: Law there can be none brought, ſince, not Jmages, but Jdols, were the beginning of J<g ref="char:EOLhyphen"/>dolatry. Jmages J have proved warranta<g ref="char:EOLhyphen"/>ble in holy Scripture.</p>
+               <p>Nor Reaſon; for whereas an Jdoll re<g ref="char:EOLhyphen"/>preſenteth nothing beſides it ſelfe, and ſo is worſhipp'd without any farther relation; an Jmage repreſenteth a true object, diſtinct from it ſelfe; therefore moveth a man to a reverence, proportionable to the object re<g ref="char:EOLhyphen"/>preſented.</p>
+               <p>Whence in reaſon, an Jdoll occaſioneth Jdolatry, not repreſenting any farther object, whether our thoughts and honour may be transferred; when an Jmage of a true ob<g ref="char:EOLhyphen"/>ject, neceſſarily draweth our minds and reve<g ref="char:EOLhyphen"/>rence to ſomething beſides it ſelfe. So that aske any ſimple Believer, whether hee pray to the Jmage, or put any confidence in it, he will anſwer, No. Aske him againe, when he is kneeling before a Picture, with his eyes fixed on it, whether he directs his Prayer? He will anſwer to God, or ſome Saint re<g ref="char:EOLhyphen"/>preſented, whoſe interceſſion hee deſireth.
+<pb n="23" facs="tcp:151557:15" rendition="simple:additions"/> What hurt is in this?</p>
+               <p>St. <hi>Mary Magdalen</hi> proſtrated her ſelfe, kiſſed and bathed with her teares the feet of CHRIST, what juſtified that act? But the union which thoſe Sacred feet have with his Divinity, which yet ſhe ſaw not, but apprehended by Faith? Though betweene Chriſt and his Picture, there be not ſo im<g ref="char:EOLhyphen"/>mediate, yet there is a morall connexion ſufficient to termine one morall act of Ado<g ref="char:EOLhyphen"/>ration. Securely then J honour CHRIST and his Jmage as one morall object; there<g ref="char:EOLhyphen"/>fore cannot diſhonour the Picture without danger of diſhonouring the <hi>Prototypon.</hi>
+               </p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. 8.</head>
+               <p n="20">20. <hi>The like ſecurity is ſhewed in all other Articles believed in generall.</hi>
+               </p>
+               <p>VVHo can doubt, but that Purgatory, Free-will, Merit of good workes, by the grace of God; Tradition, Indulgen<g ref="char:EOLhyphen"/>ces, &amp;c. are probably proved by Believers; That alſo the Belief containeth no hurt; ſecurely then they are believed. Probability alſo is the moſt Disbelievers can challenge;
+<pb n="24" facs="tcp:151557:16"/> unſufficient to ſecure them, ſince the contra<g ref="char:EOLhyphen"/>ry may be true and obliging to Beliefe; for though they produce ſeeming places of Scripture, obſcure Authority of auntient Fa<g ref="char:EOLhyphen"/>thers, endleſſe reaſonings, and diſputes; ſatisfactory to few, they can convince no more, even in their owne judgements, then a ſhew of Probability, which all, though contradictory, equally pretend.</p>
+               <p>If then there appeare no harme, but pro<g ref="char:EOLhyphen"/>bability in the Beliefe, Disbelievers are in danger, being nearer to that ſentence. <hi>Hee that will not Believe ſhall bee condem<g ref="char:EOLhyphen"/>ned.</hi>
+               </p>
+               <p>Wherefore, if any endeavour to diſprove any ſuch Point of beliefe, by Scripture, Reaſon, or Authority; unleſſe they bee ſo evident that they ſuffer no Interpretation, or ſolution (which is not poſſible) J reject them as impertinent, and proving an in<g ref="char:EOLhyphen"/>ſufficient Probability, which to prevent end<g ref="char:EOLhyphen"/>leſſe Contention J grant, and the moſt that can be expected. But withall askes, whe<g ref="char:EOLhyphen"/>ther they can deny, but that the contrary Beliefe is apparently proved by great Au<g ref="char:EOLhyphen"/>thority, and probable places of Scripture: they muſt grant it.</p>
+               <p>Whence it muſt needs follow, That to
+<pb n="25" facs="tcp:151557:16" rendition="simple:additions"/> Believe is ſecure, and to deny is evidently dangerous.</p>
+               <p>Hence that Security which ſome pretend is manifeſtly proved to be vaine.</p>
+               <p>They ſay, God obligeth not men to im<g ref="char:EOLhyphen"/>poſſibilities, ſince then at leaſt, the vulgar ſort of people cannot diſcerne thoſe differen<g ref="char:EOLhyphen"/>ces wherein Learned men diſagree; each one may ſecurely reſt in that hee hath beene taught, believing his <hi>Creed, &amp;c.</hi>
+               </p>
+               <p>If wee rely onely upon Arguments out of Scripture, the probability of the Believer is onely Secure, which is evident notwith<g ref="char:EOLhyphen"/>ſtanding the diſputable Differences bee not diſcernable; for who cannot diſcerne a dif<g ref="char:EOLhyphen"/>ference betweene Believing and Disbelie<g ref="char:EOLhyphen"/>ving, which though they have equall ar<g ref="char:EOLhyphen"/>guments, yet they cannot bee equally Se<g ref="char:EOLhyphen"/>cure; Probability onely ſecuring Belief.</p>
+               <p>But that diſcourſe cleerly convinceth the neceſſity of a Church, as a living rule; For God obligeth us not to impoſſibilities, but it is impoſſible for many to judge between the monſtrous differences of private mens in<g ref="char:EOLhyphen"/>terpretations of Gods word; Therefore hee obligeth us not to the beliefe of his Word upon that accompt: but hath provided a
+<pb n="26" facs="tcp:151557:17"/> Church, which for that end hee protecteth, as is before ſhewed, <hi>Numb.</hi> 1. 3. Which we profeſſe to Believe, when wee ſay; <hi>J be<g ref="char:EOLhyphen"/>lieve the holy Catholique Church:</hi> Suffici<g ref="char:EOLhyphen"/>ent as J will prove to guide us in our Be<g ref="char:EOLhyphen"/>liefe, if there had beene no Scripture writ<g ref="char:EOLhyphen"/>ten.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. 9. <hi>Grant to Disbelievers probability of Reaſon, yet their danger is certaine.</hi>
+               </head>
+               <p n="12">12. SOme may thinke that this diſcourſe proveth Believers ſecure, but not that Disbelievers are in danger, if they be ruled according to the meanes and capaci<g ref="char:EOLhyphen"/>ty GOD hath given them, and that ſuch are not obſtinate denyers of Truth, conſe<g ref="char:EOLhyphen"/>quently ſecure.</p>
+               <p>J grant that invincible Ignorance may ex<g ref="char:EOLhyphen"/>cuſe disbelievers, as ſuch, from ſinne; yet it followeth not that finall Disbeliefe (though invincible) can conſiſt with grace neceſſary to Salvation; but this J diſpute not, nor againſt theſe; but ſuch as doe or
+<pb n="27" facs="tcp:151557:17"/> may diſcerne a difference betweene Beliefe and Disbeliefe, and who may ſee, that the grounds of Belief are at leaſt probable, and the practice harmleſſe.</p>
+               <p>Notwithſtanding, adventure upon the de<g ref="char:EOLhyphen"/>nying part, moved only by the ſame mo<g ref="char:EOLhyphen"/>tives, which they muſt ſuppoſe in confeſſed Heretickes. Or, let any one define what Disbelievers may be guilty, hee ſhall ey<g ref="char:EOLhyphen"/>ther conclude theſe Disbelievers J ſpeake of, or elſe acknowledge that there never have been any.</p>
+               <p n="22">22. Againe, it may bee urged, that if the Beliefe be ſuppoſed probably true, then the denyall is alſo Probable, then not damnable. J ſay the Beliefe is not only probably pro<g ref="char:EOLhyphen"/>ved; but out of the undeniable Probabili<g ref="char:EOLhyphen"/>ty, J ſhew it is ſufficient to prove the Be<g ref="char:EOLhyphen"/>liefe ſecure, which cannot bee in the Diſ<g ref="char:EOLhyphen"/>beliefe, though it be ſuppoſed to have Pro<g ref="char:EOLhyphen"/>bability of arguments.</p>
+               <p>The difference is, becauſe in the things believed, there appeareth no hurt, and in caſe they bee miſtaken, Probability may ju<g ref="char:EOLhyphen"/>ſtifie their conſent, eſpecially appearing grea<g ref="char:EOLhyphen"/>ter then the contrary.</p>
+               <pb n="28" facs="tcp:151557:18"/>
+               <p> But Disbelieving upon probable ſeeming grounds (and what Heritique did not thinke hee had probable grounds?) leaveth the diſ<g ref="char:EOLhyphen"/>believer in certaine danger of denying Chriſt his Word.</p>
+               <p>Firſt, becauſe his danger is certaine, in the ſame degree, as the <hi>Belief</hi> is ſuppoſed probably proved: but the Belief is manifeſt<g ref="char:EOLhyphen"/>ly ſuppoſed to bee, at leaſt, Probably pro<g ref="char:EOLhyphen"/>ved.</p>
+               <p>Therefore the Disbelivers danger is ma<g ref="char:EOLhyphen"/>nifeſt.</p>
+               <p>You will deny the firſt Propoſition; be<g ref="char:EOLhyphen"/>cauſe GOD obligeth us not to the Beliefe of controverted Points, though the one ſide bee true; but you muſt conſider, who they be that breed the Controverſie, and againſt what Authority; For if every thing that is controverted, is not obligatory, it may be proved wee are obliged to believe ſcarce any thing: Or, can it be imagined, that CHRIST leaving ſo ſtrict a Command of Beliefe, would have the execution of it, depend upon Probabilities of diſpute? Manifeſt it is, that the Scriptures are hard. Manifeſt it is, hee left a Church to direct us, manifeſt alſo, is his Command. Then manifeſt alſo it is, that
+<pb n="29" facs="tcp:151557:18"/> private diſputes cannot diſcharge our obli<g ref="char:EOLhyphen"/>gation to Belief. See <hi>Numb.</hi> 25.</p>
+               <p>Secondly, the Disbelief is as certainly dangerous, as it is certainly not evident (and more evidence is required to free the disbeliefe from danger then is neceſſary to free the Beliefe) but the disbeliefe is certainly not evident; Therefore, it is certainly dan<g ref="char:EOLhyphen"/>gerous.</p>
+               <p>The firſt Propoſition is cleare; for if there bee not evidence, the contrary may be true, obliging to Belief: That alſo the disbeliefe is not evident, appeareth by its Novelty, Inconſtancy, diſagreements (for there is ſcarce any Point of Belief but ſome disbeliever or other aſſenteth to it) and ſtrong oppoſition it hath. Neyther can the want of evidence in the Articles believed warrant the disbelievers, who may obſerve a greater probability for the Belief, elſe who could believe? Or rather, who could be charged of Hereſie? However, it is without queſti<g ref="char:EOLhyphen"/>on, that if Prohability excuſe Disbelievers, much more it will juſtifie Believers: Who then would not be ſecure?</p>
+               <p n="23">23. It followeth, that although Disbelievers
+<pb n="30" facs="tcp:151557:19"/> frame to themſelves a probable judgement, yet their danger is certaine, becauſe the con<g ref="char:EOLhyphen"/>trary Belief is doubtleſſe probably proved; which may convince them, that they leave the ſecure Belief, wherein there can bee no danger, and chooſe that part, where on CHRIST'S denunciation doth fall: and danger knowne breedeth an obligation to a farther inquiry, and removeth ſuch igno<g ref="char:EOLhyphen"/>rance, which alone can excuſe errour in Beliefe.</p>
+               <p>It may bee replyed, that where there is Probability of the disbeliefe, it is not faul<g ref="char:EOLhyphen"/>ty; becauſe then Gods word is not mani<g ref="char:EOLhyphen"/>feſt, conſequently no injury to God, not to beleeve it.</p>
+               <p>If Probability in disbeliefe excuſe from fault, <hi>Jewes, Arians, &amp;c.</hi> are excuſed; for they have a probability at leaſt, that is, an eſteeme and liking of their private grounds (in their Judgements probable) and ſince ſuch Probabilities may bee found againſt a<g ref="char:EOLhyphen"/>ny point of Faith, none can be obliged to believe.</p>
+               <p>J confeſſe, that ſtanding in the Probability conceived, a man denyeth not to believe Gods word, which then he doth not know
+<pb n="31" facs="tcp:151557:19" rendition="simple:additions"/> to bee his Word, if his Ignorance bee in<g ref="char:EOLhyphen"/>vincible; yet becauſe hee cannot but know that the Beliefe is as probably propoſed, as Commanded, hee is obliged to a higher ſearch, which certainly will bring him to more evidence of his danger and ſecurity of that his Beliefe, by obſervation of a grea<g ref="char:EOLhyphen"/>ter probability in the Beliefe, which here<g ref="char:EOLhyphen"/>after <hi>Numb.</hi> 26, 27. and 30. J will prove to bee an invincible argument of Truth in point of Faith.</p>
+               <p>Disbelievers finally flatter thamſelves, that they believe GOD's word, and deny only what they find not contained in holy Scripture.</p>
+               <p>But firſt, they muſt know what is Gods word, before they believe it; they take not the way to know it, by interpreting Scrip<g ref="char:EOLhyphen"/>tures, according to private Judgement, but by looking upon the rule God hath left to the world.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="32" facs="tcp:151557:20" rendition="simple:additions"/>
+               <head>CHAP. 10. <hi>A Rule is neceſſary to ſhew what is to bee Believed.</hi>
+               </head>
+               <p n="24">24. HItherto J have proved Beliefe ſe<g ref="char:EOLhyphen"/>cure; Disbeliefe dangerous, ſtan<g ref="char:EOLhyphen"/>ding onely upon private Interpretation of Scripture; Prudence moving me to chooſe that part, which is moſt remote from danger of CHRISTS ſentence.</p>
+               <p>Now ſince the obligation of CHRISTS Command depends not upon Probabilities, J will in theſe Differences ariſing from diver<g ref="char:EOLhyphen"/>ſity of Wit, ſhew a neceſſity of a common Rule, without which Experience ſheweth there is no agreement amongſt Chriſtians, no Conſtancy, no true Faith; becauſe reſolved no higher than into private Judgement, which alone maketh Disbeliefe unexcuſable, though it have never ſo ſeeming probability.</p>
+               <p>God commandeth a beliefe of his Word under paine of Damnation; therefore muſt bee ſuppoſed to manifeſt to men, what is his Word, otherwiſe how can they be ob<g ref="char:EOLhyphen"/>liged to believe it?</p>
+               <pb n="33" facs="tcp:151557:20"/>
+               <p> But hee doth not manifeſt, which is his Word, eſpecially in controverted Points, by holy Scripture, or private Spirit; there<g ref="char:EOLhyphen"/>fore ſome other rule muſt bee ſuppoſed.</p>
+               <p>Private Spirit is not ſufficient, becauſe it is not univerſall, leading to Unity, but mul<g ref="char:EOLhyphen"/>tiplyed with Contradiction, not diſcernable amongſt ſo many diſagreeing Spirits, which is the true: and who can maintaine his own meaning, only true; and the reſt falſe?</p>
+               <p>Moreover, a Rule is ſuppoſed a common and Secure direction, elſe no Rule; which with a private Spirit implyeth a contradicti<g ref="char:EOLhyphen"/>on, private Spirits being but private directi<g ref="char:EOLhyphen"/>ons; and ſo private, that it is not knowne wherein they agree; for to one it teacheth one point of Beliefe, and denyeth the reſt; To another it teacheth another Point, and denyeth the reſt; to a third it teacheth ano<g ref="char:EOLhyphen"/>ther, and likewiſe denyeth the reſt, &amp;c. So that by ſome Spirit or other, every point of Beliefe is taught, and every Point denyed: How then is it a Rule?</p>
+               <p>Scripture alſo is unſufficient to declare its owne ſence, as appeareth by the great diffe<g ref="char:EOLhyphen"/>rence amongſt Interpreters left to their owne judgements, and contradictory Religions
+<pb n="34" facs="tcp:151557:21"/> framed thereby; when ſome muſt needs bee deceived of their ſo aſſured Senſe; and who they are who can ſufficiently prove by Scrip<g ref="char:EOLhyphen"/>ture alone?</p>
+               <p>It is evident, that the preſumptuous con<g ref="char:EOLhyphen"/>fidence of the ſufficiency and cleerneſſe of Scriptures alone, hath cauſed theſe experien<g ref="char:EOLhyphen"/>ced Confuſions and will maintaine them, if It bee not layd aſide.</p>
+               <p>And prodigious is the blindneſſe which ſeeth it not. For one may truly ſay, there is nothing in the World, that more divideth Schollers and Common-wealths into mon<g ref="char:EOLhyphen"/>ſtrous differences, then the ſenſe of Scrip<g ref="char:EOLhyphen"/>tures, left to private Judgements; when e<g ref="char:EOLhyphen"/>very mans judgement is left free to gueſſe what hee pleaſeth; that looking this way onely, no man can find any aſſurance of what we are to Believe; What wonder then, if wee have ſo many contradictory Doctors: Every one the ſole true underſtander of Gods word? Sole true impugner of Be<g ref="char:EOLhyphen"/>liefe? Every one diſproving one Article, and proving another? Whence all Beliefe is proved, and every Article diſproved by their unfallible Rule, an evident argument of the inſufficiency of this courſe, and that
+<pb n="35" facs="tcp:151557:21"/> the Scripture doth not declare it ſelfe; there<g ref="char:EOLhyphen"/>fore it can bee no Rule, to determine con<g ref="char:EOLhyphen"/>tradictory Opinions of the ſenſe of the ſame, conſequently of it ſelfe, not ſufficient what is Gods word.</p>
+               <p n="25">25. J declare it evidently; for there is ſcarce any point of Beliefe, but ſome disbeliever or other finds it in Scripture, then by their rule, they eyther prove all points of Faith, or that Scripture is no Rule. For amongſt them they find out almoſt all wee believe, in their undoubted Rule; yet looking upon one anothers diſagreements, they muſt ſay, It is no Rule: The ſame Scripture regulating to them every point of Beliefe, and the ſame regulating their disbeliefe in all: Which of theſe ſhall the World follow?</p>
+               <p>Finally, It is as cleare, that reſting upon private Interpretations of holy Scripture no high myſterie can oblige to Beliefe; becauſe being ſubject to Controverſies, Probability muſt bee ſuppoſed upon all ſides; and why not in one as well as in another? Then they doe not appeare Divine revelations, conſe<g ref="char:EOLhyphen"/>quently they oblige not to Beliefe, if then probable arguments againſt Beliefe be ſuffi<g ref="char:EOLhyphen"/>cient
+<pb n="36" facs="tcp:151557:22"/> to excuſe the Disbeliefe, all disbeliefe is excuſable, conſequently no Faith obli<g ref="char:EOLhyphen"/>geth; another Rule then is neceſſary.</p>
+               <p>The texts inducing to this confidence are weake: <hi>You ſhall not adde a Word,</hi> Deut. 4. <hi>Search the Scriptures,</hi> Joh. 5. <hi>Theſe things are written that you may Believe,</hi> Joh. 20. All Scripture divinely inſpired is profitable: They prove as much againſt the Primitive Church, which doubtleſſe was an infalli<g ref="char:EOLhyphen"/>ble Rule, and could not ceaſe by the ac<g ref="char:EOLhyphen"/>ceſſe of Scriptures. Neyther doe theſe Places ſay, that all is written which CHRIST taught, or that what is written is divine Scripture, or that it needeth no Interpreter, eſpecially not a Church, but a private Spi<g ref="char:EOLhyphen"/>rit onely.</p>
+               <p>But now wee ſeeme to deny with the ſame danger.</p>
+               <p>Wee deny not any ſufficiency on the part of holy Scripture for it is the undoubted Word of GOD, left to the interpretation of his Church. But only we deny the ſuffi<g ref="char:EOLhyphen"/>ciency of our unmannerly Judgements that preſume too high.</p>
+               <p>A Rule then is neceſſary to fulfill Gods Command, ſince hee doth not command a
+<pb n="37" facs="tcp:151557:22"/> ſaving Beliefe, and leave us ſo unaſſured of his Word.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. 11. <hi>The onely unfallible Rule to know Gods word.</hi>
+               </head>
+               <p n="26">26. IS the Church holy, Apoſtolicall, not hindered in her Continuance, nor diſ<g ref="char:EOLhyphen"/>proved in her Doctrine, which remaineth incorrupt, Though the gates of Hell (as was fore-told) breath forth malice at all times againſt it.</p>
+               <p>Of this the holy Scripture giveth cleare teſtimony, <hi>Math. ult. Teach all Nations, behold J am with you every day even to the end of the World.</hi>
+               </p>
+               <p>Math. 18. 17. <hi>If hee ſhall not heare the Church, let him bee to thee as a Heathen and Publican.</hi>
+               </p>
+               <p>Luk. 10. 16. <hi>Hee that heareth you, heareth mee, and hee that contemneth you contemneth mee.</hi>
+               </p>
+               <p>Beſides, the Church is called, Math. 5. <hi>The light of the World.</hi> Tim. 3. 15. <hi>A pillar and firmament of Truth.</hi> Theſe texts ſufficiently prove a living and infallible Rule.</p>
+               <pb n="38" facs="tcp:151557:23"/>
+               <p> Then you will ſay, The Scripture is the Rule whereby to know the Church, conſe<g ref="char:EOLhyphen"/>quently the onely rule of all Beliefe.</p>
+               <p>True it is, The Church and Scripture give mutuall evidence of one another: yet the firſt Rule by which wee know both Scripture and the ſenſe thereof, is onely the Church: How then doe wee know the Church?</p>
+               <p>As the Apoſtles and Diſciples knew CHRIST, by the Teſtimonies, from God of his Miſſion; and as ſucceeding Ages knew their Predeceſſors even till this time, by the providence of God, without interruption, never diſproved; otherwiſe there can be no true ſenſe made of CHRISTS Promiſes of teaching all Nations, of being with it every day to the conſummation of the World; of all being obliged to heare it; of being a firmament of Truth and light of the world. That were there no Scripture; as CHRIST was, and his Primitive Church was; ſo likewiſe in their Succeſſours, the ſame Church, even till the Worlds end, is an infallible Rule to know what is to bee Be<g ref="char:EOLhyphen"/>lieved, untill it be evidently proved; what Age firſt began to conſpire againſt their
+<pb n="39" facs="tcp:151557:23"/> Teachers, by deviſing damnable Errours, hard even to reaſon and ſenſe, without en<g ref="char:EOLhyphen"/>countering any publique Oppoſers, even till theſe laſt Hundred yeares, or thereabout; and without this Church wee could not be aſſured of holy Scriptures.</p>
+               <p>Certainly there is not any greater proofe of Gods word, nor ſhew of his Providence, nor clearer meanes to diſcide Controverſies, than the believing Church wee ſpeake of.</p>
+               <p>What Authority can compare with it! the Disbelievers only becauſe it confounded their hardneſſe of Belief, were forced to that poore ſhift of adhering to a Church in<g ref="char:EOLhyphen"/>viſible.</p>
+               <p>If this bee not evident, yet it is manifeſt that there is no motive of disbeliefe compa<g ref="char:EOLhyphen"/>rable to it. See <hi>Numb.</hi> 3. 26. Hence J prove the Church to bee the onely unfallible Rule whereby to know what is to be believed. GOD commanding Belief under paine of damnation, muſt bee ſuppoſed to declare ſufficiently what is to be believed: But if the Church bee not a ſufficient rule, GOD doth not ſufficiently declare to the world what is to bee believed: Therefore we muſt confeſſe the Church to be the ſufficient Rule conſequently infallible.</p>
+               <pb n="40" facs="tcp:151557:24"/>
+               <p> The firſt Propoſition is undoubted. The ſecond evident, J have ſhewed <hi>Chapter</hi> 10. That the Scripture is no ſufficient Rule to de<g ref="char:EOLhyphen"/>termine the ſenſe thereof, private Spirit is alſo uncertaine and not knowne, as J ſhew<g ref="char:EOLhyphen"/>ed, <hi>Numb.</hi> 24. It followeth then, that ey<g ref="char:EOLhyphen"/>ther the Church muſt bee the Rule, or that we have no rule.</p>
+               <p>Moreover, who will have the Scripture the rule, meane, as it is interpreted by themſelves, not as it is interpreted by themſelves, not as it is Interpreted by the Church.</p>
+               <p>J aske them? Doth their wit lead them to the true Senſe? Or the bare Word? Or, both? If the firſt, then their Wit is the rule: If the ſecond, why doth not the bare Word regulate all ſincere underſtandings, or how could the whole auntient Church be ſo blind, as not to ſee it, if it erred as Disbelievers ſuppoſe? If both; J aske againe: Whe<g ref="char:EOLhyphen"/>ther the Authority of ſome in this laſt Age diſagreeing in their pretended Rule, and granting it to teach almoſt every particular Doctrine they deny, can bee prudently e<g ref="char:EOLhyphen"/>ſteemed comparable to the conſent of an An<g ref="char:EOLhyphen"/>tient Church, interpreting Scriptures uni<g ref="char:EOLhyphen"/>formly, never yet evidently diſproved, nor
+<pb n="41" facs="tcp:151557:24" rendition="simple:additions"/> queſtioned for diſſenting from the Primitive, till of late.</p>
+               <p n="27">27. <hi>Hence againe, J prove the Church the onely Rule whereby wee know what is to be Believed.</hi>
+               </p>
+               <p>THat muſt be ſuppoſed to be the Rule, which is the moſt probable Propoſall; but the Church is the more probable propo<g ref="char:EOLhyphen"/>ſall; Therefore it is the Rule.</p>
+               <p>The firſt Propoſition is manifeſt, for where GOD commands Belief, hee cannot permit the contrary Errour to be propoſed with grea<g ref="char:EOLhyphen"/>ter Probabilitie.</p>
+               <p>That the Church is the more probable Pro<g ref="char:EOLhyphen"/>poſall, hath all proofes, except only its Ad<g ref="char:EOLhyphen"/>verſaries denyall: what Authority, Sancti<g ref="char:EOLhyphen"/>ty, Antiquity, extent, and Unity is compa<g ref="char:EOLhyphen"/>rable to it?</p>
+               <p>If you aske here, whether the Wit of men bee the rule in the Church; J anſwer, That the Church guided by the Spirit of GOD, is the rule.</p>
+               <p>How doe J know this? By the Church it ſelfe, indued with ſuch marks and tokens of
+<pb n="42" facs="tcp:151557:25"/> Gods preſence in it, that prudently J cannot doubt it. See <hi>Numb.</hi> 3.</p>
+               <p>The <hi>Jewes</hi> Law was to continue but untill the Comming of the MESSIAS, yet in reſpect of the great Authority there<g ref="char:EOLhyphen"/>of, CHRIST held them excuſable ad<g ref="char:EOLhyphen"/>hering to their Law, and denying himſelfe to bee the <hi>Meſſias;</hi> had hee not wrought ſuch Miracles, as no man ever wrought.</p>
+               <p>No wonder then, if the Church be a rule to Chriſtian beliefe, untill God worke Mi<g ref="char:EOLhyphen"/>racles to diſprove it.</p>
+               <p>And of what nature had they need to bee?</p>
+               <p>Disbelievers will tell you; They are the Church.</p>
+               <p>The new Church of Disbeliefe, not the auntient believing Church: They cannot bee of the Church, and by Disbelieving fight againſt the Church, which conſiſteth of Believers.</p>
+               <p>Their firſt and onely contention with the Church was becauſe it Believed, and they could not underſtand how. Yet they could never prove, when the Church firſt devi<g ref="char:EOLhyphen"/>ſed
+<pb n="43" facs="tcp:151557:25"/> that Beliefe; wherefore leaving it, they left alſo the Primitive Church, though, in words onely, they pretend to follow it.</p>
+               <p>Securely and prudently ſuch a Rule is be<g ref="char:EOLhyphen"/>lieved, with danger denyed; maugre all ſhew of Reaſon to the contrary, ſince it can bee but in ſhew Probable.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. 12. <hi>Hee that leaveth this Rule is in evident danger.</hi>
+               </head>
+               <p n="28">28. IT cannot bee denyed, but that it is Prudence to rely on ſuch a Church, believing it, rather then any private Wits or reaſon denying; therefore Secure.</p>
+               <p>It is evident alſo, that there is no other Rule, as J ſhewed <hi>Chapter</hi> 10. Then to for<g ref="char:EOLhyphen"/>ſake this Rule is to runne into danger of er<g ref="char:EOLhyphen"/>rours in Beliefe, this alſo is proved, <hi>Numb.</hi> 24.</p>
+               <p>You ſay, the Church hath erred; there<g ref="char:EOLhyphen"/>fore is not to bee looked upon as a Rule.</p>
+               <pb n="44" facs="tcp:151557:26"/>
+               <p> What then? Are you ſure none will ſay, that the Scriptures have been corrupted? Grant they have not, yet who can bee aſ<g ref="char:EOLhyphen"/>ſured, that hee only underſtandeth them?</p>
+               <p>In the Church protected by CHRIST, you will ſuppoſe Errours without proofe; becauſe you will have no Rule to containe your judgement within the bonds of Humi<g ref="char:EOLhyphen"/>lity, but you can produce no evident proofe as you muſt confeſſe.</p>
+               <p>Your calling ſome Scriptures in queſtion, your Interpretations of others, your queſti<g ref="char:EOLhyphen"/>ons how? Your moderne diſagreeing Do<g ref="char:EOLhyphen"/>ctors, your obſcurities out of Antiquity, which is all you can bring; are but the fruits of Wit, and argue even in your owne Judgements, but a Probability againſt the former received Articles, invincibly credi<g ref="char:EOLhyphen"/>ble.</p>
+               <p>Firſt, <hi>Becauſe the auntient and one<g ref="char:EOLhyphen"/>ly knowne Church hath conſtantly pro<g ref="char:EOLhyphen"/>ved them, by an <g ref="char:V">Ʋ</g>niforme interpreta<g ref="char:EOLhyphen"/>tion of holy Scriptures, more prevalent than any new Authoritie can bee to the contrary.</hi>
+               </p>
+               <pb n="45" facs="tcp:151557:26"/>
+               <p> 2. Secondly, <hi>If they were deviſed ſince the Primitive Church, it is not poſ<g ref="char:EOLhyphen"/>ſible but it would have beene Recorded by many, or ſome antient Writers: They being Articles, hard and of high<g ref="char:EOLhyphen"/>est concernment.</hi>
+               </p>
+               <p>3. Thirdly, <hi>Why ſhall the judgement of a few Denyers condemne a Beliefe delivered by the ſame Scripture, in<g ref="char:EOLhyphen"/>terpreted by the ſame Church, as all other Articles were.</hi>
+               </p>
+               <p n="29">29. BY theſe Proofes well pondered, thoſe ſuppoſed Errours will appeare objects of a Chriſtian beliefe invincibly Prudent, and they evidently credible: Firſt declared, not by a Parliament, but by Generall Councels, not in one Kingdome but in ma<g ref="char:EOLhyphen"/>ny; not by a few diſ-agreeing, but by a Conſonant voyce throughout all Parts and
+<pb n="46" facs="tcp:151557:27" rendition="simple:additions"/> times of the Chriſtian world; what more Credible? Then no Errours, then no markes of an apoſtating Church.</p>
+               <p>The Church then remaines a Rule, this is at leaſt Probable; then dangerous to for<g ref="char:EOLhyphen"/>ſake it; Leaſt hee that hateth it, hateth CHRIST.</p>
+               <p n="30">30. BEcauſe all that will not Believe what moſt prudently appeareth to bee CHRISTS word, are in danger of de<g ref="char:EOLhyphen"/>nying CHRIST'S word.</p>
+               <p>But ſuch are the forſakers of this Rule; therefore they are in danger, &amp;c.</p>
+               <p>The major is proved; becauſe CHRIST cannot bee ſuppoſed to command Beliefe, and permit the moſt prudent motives to Errour.</p>
+               <p>The minor is certaine; becauſe the for<g ref="char:EOLhyphen"/>ſakers of this Rule have no other, nor Church antienter then themſelves, to war<g ref="char:EOLhyphen"/>rant their Inventions.</p>
+               <p>The Church then remaineth not mani<g ref="char:EOLhyphen"/>feſtly blemiſhed; then not convinced to differ from the Primitive: Then the onely
+<pb n="47" facs="tcp:151557:27"/> 
+                  <hi>Catholique,</hi> then the deliverer of GOD's Word, then a Secure rule; dangerous then to forſake it.</p>
+               <p>If all this bee not evident; it is at leaſt Probably proved, and free from harme.</p>
+               <p>Securely then believed, dangerouſly de<g ref="char:EOLhyphen"/>nyed; Since the authority of the Church muſt appeare more prevalent to juſtifie thoſe Articles (pretended Errours) then Wit of man to blemiſh it by them.</p>
+            </div>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p n="31">31. THus have I ſhewed the Securitie of Believers probably, at leaſt, conformable to CHRISTS word: The danger alſo of Disbelievers, con<g ref="char:EOLhyphen"/>temning the Authority of an antient Church, and as yet not convicted of Corruption in Faith, nor ſo much as charged by any authority greater than
+<pb n="48" facs="tcp:151557:28"/> it ſelfe; but ſuch as regenerate by her in CHRIST, did forſake her for liberty of life and Belief. Hee that diſpiſeth it diſpiſeth CHRIST: Who will not heare the Church, let him bee reputed as a Heathen and a Publican. And chooſing the disbelie<g ref="char:EOLhyphen"/>ving part out of ſeeming Reaſons, ex<g ref="char:EOLhyphen"/>poſing themſelves to needleſſe danger of that Sentence, who will not believe ſhall bee condemned. For if the con<g ref="char:EOLhyphen"/>trary Beliefe muſt bee ſuppoſed, at the leaſt, Probable, then the Disbeliefe may bee a faulty denyall of CHRISTS word; conſequently, it may deſerve damnation. This is evident to rea<g ref="char:EOLhyphen"/>ſon.</p>
+               <p>Moreover, ſince GOD hath com<g ref="char:EOLhyphen"/>manded a beliefe of his Goſpell, I have ſhewed by Reaſon and evident Experience of the infinite contradicti<g ref="char:EOLhyphen"/>on of Interpreters, left to their owne private judgements or Spirits, an ab<g ref="char:EOLhyphen"/>ſolute neceſſity of ſome living Rule;
+<pb n="49" facs="tcp:151557:28"/> and that no other can bee imagined than the Antient, believing, undiſ<g ref="char:EOLhyphen"/>proved Church, againſt which all Arguments that wit can produce; if they be not cleerly evident, and beyond the degree of Probability (to which purpoſe it will bee neceſſary to diſ<g ref="char:EOLhyphen"/>prove evidently all the proofes the ſaid Church hath) they are unſuffi<g ref="char:EOLhyphen"/>cient to overthrow an antient received Church, declaring and proving the contrary ever ſince the firſt Inſtituti<g ref="char:EOLhyphen"/>on thereof.</p>
+               <p>Who then ſeeth not, how much it concerneth a Chriſtian not raſhly to deny what is delivered by an antient Church?</p>
+               <p>Vpon true beliefe Gods favour de<g ref="char:EOLhyphen"/>pendeth, on this Eternall welfare; wee expect but one Death, one irre<g ref="char:EOLhyphen"/>vocable Iudgement, one eternity of Happineſſe, or Miſery: This is the effect of Disbelief; That is promiſed to Believers.</p>
+               <pb n="50" facs="tcp:151557:29"/>
+               <p> Shall a Chriſtian adventure upon ſuch extremities with ſeeming Proba<g ref="char:EOLhyphen"/>bilities, and leave Security? Beliefe is ſecure voyd of harme. But to Diſ<g ref="char:EOLhyphen"/>believers it is ſaid, Who will not be<g ref="char:EOLhyphen"/>lieve ſhall bee damned.</p>
+               <p>
+                  <hi>Graviter p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ccat</hi> (ſaith St. <hi>August. cap. de Baptiſ.) qui in rebus ad Salu<g ref="char:EOLhyphen"/>tem animae pertinentibus certis incerta praeponit.</hi> Heavie is his ſinne who in matters concerning the ſafety of his Soule, preferreth uncertaine meanes before certaine.</p>
+               <p>
+                  <hi>Read and conſider.</hi>
+               </p>
+               <closer>
+                  <salute>Farewell.</salute>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:151557:29"/>
+            <head>Errata.</head>
+            <p>COurteous reader, beſides many ſlippes, I deſire you in the 2, Epiſtle, line 15. to reade for the theſe. pag. 3. l. 9, for the, theſe. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the 11, leave out them, line 21. put in Secondly, p, 4, for fourthly, thirdly, &amp;c, p, 7, for religious, religions, p. 11, l, 8, for duly, daily, p, 12, l, 2, for heattly, hearty, p. 14, l. 15. read permanent, l, 10, for 8. put 18. p. 15, l. 20, inſert two, before <hi>Creeds,</hi> p. 17. l, 18, for the read hee, p. 19. l. 11 for is it, p. 20. l. 18. for 28, 24, p. 26. l. 8. for 12, 21, pa. 25, l, 4, inſert, to ſhew pa. 36, l, 22, inſert true, p. 39, for (ſee number, 3, and the 26) ſee num, 3, pag. 45, l, 15, put out firſt.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
